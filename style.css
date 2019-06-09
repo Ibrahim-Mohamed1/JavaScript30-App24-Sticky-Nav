@@ -88,4 +88,8 @@ html {
     color: black;
   }
   
+  .fixed-nav li.logo {
+    max-width: 500px;
+  }
+  
   
