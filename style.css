@@ -75,4 +75,13 @@ html {
     align-items: center;
   }
   
+  li.logo {
+    max-width: 0;
+    overflow: hidden;
+    background: white;
+    transition: all 0.5s;
+    font-weight: 600;
+    font-size: 30px;
+  }
+  
   
