@@ -92,4 +92,11 @@ html {
     max-width: 500px;
   }
   
-  
+  nav a {
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    transition: all 0.2s;
+    text-transform: uppercase;
+  }  
