@@ -103,10 +103,10 @@ html {
   .span{
     font-size: 30px;
     margin-left: 10px;
-    color: white;
+    color: black;
 }
 a{
-    text-decoration-color: white;
+    text-decoration-color: black;
     margin-top: 0%;
 }
 @media(pointer: none), (pointer: coarse) {
