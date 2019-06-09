@@ -84,4 +84,8 @@ html {
     font-size: 30px;
   }
   
+  li.logo a {
+    color: black;
+  }
+  
   
